@@ -195,7 +195,7 @@ List of  keys and mouse buttons
 Tables of virtual and scan codes
 =================================================
 
-###[Mouse buttons table](#mouse-buttons)
+### [Mouse buttons table](#mouse-buttons)
 
 | VK | Key name                        | Description                           |
 |:---|:--------------------------------|:--------------------------------------|
