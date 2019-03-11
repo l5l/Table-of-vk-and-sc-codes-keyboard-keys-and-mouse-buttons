@@ -69,8 +69,8 @@ List of  keys and mouse buttons
 ##### [Non-letter keys](#non-letter-keys-table)
 
 [`Space`](#Space)
-[`` `](#\`\`)
-[`-`](#-)
+[` `` `](#\`\`)
+[`-`](#\-)
 [`=`](#=)
 [`[`](#[)
 [`]`](#])
