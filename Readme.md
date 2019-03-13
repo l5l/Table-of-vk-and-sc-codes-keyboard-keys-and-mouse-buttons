@@ -1,4 +1,4 @@
-List of  keys and mouse buttons
+List of keys and mouse buttons
 ===============================
 
   <!-- MarkdownTOC autolink="true" -->
